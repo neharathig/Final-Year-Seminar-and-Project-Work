@@ -4,13 +4,13 @@ This repositary contains final year seminar and project documentation.
 
 ## Seminar Work
 
-* Documentation  
+###  Documentation  
 
 * Abstract
 
 * Seminar Report
 
-#### Cover and Certificate
+* Cover and Certificate
 
 ### Presentation
 
