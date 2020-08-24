@@ -27,9 +27,9 @@ This repositary contains final year seminar and project documentation.
 
 * Disseratation Book : This is how it should look like [Disseratiob Book PDF](https://github.com/Neha16999/Final-Year-Seminar-and-Project-Work/blob/master/DisserataionBook.pdf). Feel free to edit [Disseration book Doc](https://github.com/Neha16999/Final-Year-Seminar-and-Project-Work/blob/master/DisserataionBook%20of%20Final%20Year%20Project.doc)
 
-* Published Paper Certificates :
+* Published Paper Certificates : Just make a PDF of Published Paper Cerificates.
 
-* Other Certifictes : 
+* Other Certifictes : Make pdf of certificates that you have done in the same technology as you have used one in the project.
 
 ### Presentation 
 
